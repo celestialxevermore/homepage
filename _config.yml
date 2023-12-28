@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Eungyeop Kim"
-  avatar           : "profile.jpg"
-  bio              : "Test"
+  avatar           : "AAA.jpg"
+  bio              : "왜 안되는데 시발"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
