@@ -11,9 +11,9 @@ title                    : "Eungyeop Kim / Main"
 title_separator          : "-"
 name                     : &name "Eungyeop Kim"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://celestialxevermore.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://celestialxevermore.github.io/homepage/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Eungyeop Kim"
-  avatar           : "AAA.png"
+  avatar           : "AAA.jpg"
   bio              : "왜 안되는데 시발"
-  location         : "Location"
+  location         : "Heukseok-ro,Donjak-gu, Seoul"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
