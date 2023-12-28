@@ -11,7 +11,7 @@ redirect_from:
 
 Introduction 
 ------
-I am currently pursuing a PhD in the Decision Intelligence Lab at the department of AI in Chung-Ang University. My advisor is Changhee Lee, under whose passionate teaching and guidance, I am diligently working on my doctoral degree. 
+I am currently pursuing a PhD in the [Decision Intelligence Lab](https://sites.google.com/view/decision-intelligence/home) at the department of AI in Chung-Ang University. My advisor is [Changhee Lee](https://scholar.google.com/citations?user=kSvJTg4AAAAJ&hl=en), under whose passionate teaching and guidance, I am diligently working on my doctoral degree. 
 
 I completed my undergraduate studies in English Literature and Software Engineering, and my master's degree in AI, both at Chung-Ang University. 
 
