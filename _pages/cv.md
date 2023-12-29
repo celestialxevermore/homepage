@@ -16,26 +16,40 @@ humanities convergence Chung-Ang University, 2021
 * M.S. in Artificial Intelligence, Chung-Ang University, 2023
 * Ph.D in Artificial Intelligence, Chung-Ang University, (current)
 
-Work experience
+Academic & Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fake News Detection NLP Project (Ootober 2022 ~ June 2023)
+  * Industry-University Cooperation project, Korea Ceative content agency
+  * Graph Neural Network modeling for efficient Fake News Detection Framework.
+  * Main Positions and Required Skills: Deep learning programming (sub), and paper writing. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The next generation Text-Video-Retrieval Development (Ootober 2022 ~ June 2023)
+  * Industry-University Cooperation project 
+  * Submission to ACMMM 2023 as the 1st author
+  * Main Positions and Required Skills: main student researcher, project manager. 
+
+* Summer Internship Program: KaKao operation. 
+  * Internship program
+  * Front-end Engineering
+  * Required Skills: Reactive Web Programming - React, JavaScript.  
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Skills : 
+  * C++(main), Python, Pytorch, Tensorflow
+  * Web &App programming language involving HTML, CSS, Javascript, Flutter, and react etc. (Professional Level.) 
+  * GO(Low proficiency)  
+* Deep Learning environments : 
+  * MobaXterm, nohup, wandb (intermediate level). 
+  * Google Cloud Platform (High proficiency).  
+* English Skills : 
+  * New TEPS score : 423 (352th New TEPS).
+  * TOEFL ibt score : 98 (my best score 105).
+  * Speaking (Intermediate). 
+* Co-work Skills : 
+  * Github (Intermediate) 
+  * Managing Notion.
 
 Publications
 ======
