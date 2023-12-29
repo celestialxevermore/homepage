@@ -3,7 +3,7 @@ title: "이미지 검색을 위한 대조 학습 모델의 한국어 학습 방�
 collection: publications
 permalink: /publication/2022-06-24
 excerpt: 'AAA'
-date: 2022
+date: 2022-01-02
 venue: 'Domestic conference: IEIE'
 paperurl: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133116'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
