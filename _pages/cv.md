@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English and English Literature, software
+humanities convergence Chung-Ang University, 2021
+* M.S. in Artificial Intelligence, Chung-Ang University, 2023
+* Ph.D in Artificial Intelligence, Chung-Ang University, (current)
 
 Work experience
 ======
