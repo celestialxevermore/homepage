@@ -1,13 +1,12 @@
 ---
-title: "X-VLNet for Text Video Retrieval Bi-Directional Interaction with
-Fine-Grained Intra-Modality Alignment"
+title: "X-VLNet for Text Video Retrieval Bi-Directional Interaction with Fine-Grained Intra-Modality Alignment"
 collection: pre-print
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'pre-print'
 date: 2024-01-17
 venue: 'International Conference : IJCAI 2024'
 paperurl: 
-citation: 'Eungyeop Kim. (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 
 ---
 
 

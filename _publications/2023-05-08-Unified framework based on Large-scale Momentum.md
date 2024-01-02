@@ -1,8 +1,7 @@
 ---
-title: "Unified framework based on Large-scale Momentum 
-Contrastive learning for Text-Video Retrieval"
+title: "Unified framework based on Large-scale Momentum Contrastive learning for Text-Video Retrieval"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-05-08-Unified framework based on Large-scale Momentum Contrastive learning for Text-Video Retrieval
 excerpt: 
 date: 2023-05-08
 venue: 'International journal : IEEE Access'
