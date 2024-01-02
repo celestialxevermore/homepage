@@ -6,7 +6,7 @@ excerpt: 'pre-print'
 date: 2023-12-01
 venue: 'International Journal : Applied Intelligence (Impact Factor : 5.019)'
 paperurl: 
-citation: 'Eungyeop Kim. (2023).'
+citation:
 ---
 <!--This paper is about the number 2. The number 3 is left for future work.-->
 

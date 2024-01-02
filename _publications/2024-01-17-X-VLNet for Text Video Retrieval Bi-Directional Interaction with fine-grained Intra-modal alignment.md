@@ -12,4 +12,4 @@ citation:
 
 <!--[Download paper here](https://ieeexplore.ieee.org/document/10363175?source=authoralert)-->
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<!--Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).-->
