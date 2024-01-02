@@ -2,7 +2,7 @@
 title: "Topological and Sequential Neural Network Model for Detecting Fake News"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'AAA'
+excerpt: 
 date: 2023-12-27
 venue: 'International journal : IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/10363175?source=authoralert'
