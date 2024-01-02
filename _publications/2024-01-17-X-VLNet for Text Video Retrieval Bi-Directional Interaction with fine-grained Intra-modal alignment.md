@@ -4,7 +4,7 @@ collection: pre-print
 permalink: /publication/2024-01-17-paper-X-VLNet-for-Text-Video-Retrieval-Bi-Directional-Interaction-with-Fine-Grained-Intra-Modality-Alignment
 excerpt: 'pre-print'
 date: 2024-01-17
-venue: 'International Conference : IJCAI 2024'
+venue: 'International Conference : IJCAI '
 paperurl: 
 citation: 
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-12-27-Topological and Sequential Neural Network Model for Detecting Fake News
 excerpt: 
 date: 2023-12-27
-venue: 'International journal : IEEE Access'
+venue: 'International journal : IEEE Access (Impact Factor : 3.476)'
 paperurl: 'https://ieeexplore.ieee.org/document/10363175?source=authoralert'
 citation: 
 ---
