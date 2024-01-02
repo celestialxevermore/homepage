@@ -3,7 +3,7 @@ title: "Minimal Sufficient Contrastive Learning based interpretable text-video m
 collection: pre-print
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'pre-print'
-date: 2023-12-01
+date: 2023-12-16
 venue: 'International Journal : Applied Intelligence (Impact Factor : 5.019)'
 paperurl: 
 citation:
