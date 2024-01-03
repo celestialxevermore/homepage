@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-05-08-Unified framework based on Large-scale Momentum Contrastive learning for Text-Video Retrieval
 excerpt: 
 date: 2023-02-08
-venue: 'Domestic Journal : ICEIC 2023'
+venue: 'Domestic Journal : ICEIC'
 paperurl: 'https://ieeexplore.ieee.org/document/10049967'
 citation: 
 ---
