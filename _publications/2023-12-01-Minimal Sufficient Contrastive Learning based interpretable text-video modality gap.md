@@ -1,5 +1,5 @@
 ---
-title: "Minimal Sufficient Contrastive Learning based interpretable text-video modality gap"
+title: "A Survey : Minimal Sufficient Contrastive Learning based interpretable text-video modality gap"
 collection: pre-print
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'pre-print'
