@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in English and English Literature, software
-humanities convergence Chung-Ang University, 2021
+* B.A. in English and English Literature, B.S. in Software Engineering (double major)
 * M.S. in Artificial Intelligence, Chung-Ang University, 2023
 * Ph.D in Artificial Intelligence, Chung-Ang University, (current)
 
