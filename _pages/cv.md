@@ -18,7 +18,7 @@ humanities convergence Chung-Ang University, 2021
 
 Academic & Work experience
 ======
-* Fake News Detection NLP Project (Ootober 2022 ~ June 2023)
+* Fake News Detection NLP Project (October 2022 ~ June 2023)
   * Industry-University Cooperation project, Korea Ceative content agency
   * Graph Neural Network modeling for efficient Fake News Detection Framework.
   * Main Positions and Required Skills: Deep learning programming (sub), and paper writing. 
