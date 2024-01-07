@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.A. in English and English Literature, B.S. in Software Engineering (double major)
-* M.S. in Artificial Intelligence, Chung-Ang University, 2023
-* Ph.D in Artificial Intelligence, Chung-Ang University, (current)
+* M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
+* Ph.D in Artificial Intelligence, Chung-Ang University, (2023 ~ )
 
 Academic & Work experience
 ======
