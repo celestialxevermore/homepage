@@ -28,7 +28,7 @@ Academic & Work experience
   * Main Positions and Required Skills: main student researcher, project manager. 
 
 * Summer Internship Program: KaKao operation. (June 2021 ~ September 2021) 
-  * Internship program
+  * Employment-linked Internship program
   * Front-end Engineering
   * Required Skills: Reactive Web Programming - React, JavaScript.  
 
