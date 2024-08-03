@@ -52,11 +52,13 @@ Skills
 * Co-work Skills : 
   * Github (Intermediate) 
 
-Publications
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 <!--  
 Talks
 ======
