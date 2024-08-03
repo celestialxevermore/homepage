@@ -5,40 +5,31 @@ permalink: /projects/
 author_profile: true
 ---
 
-# My Portfolio
-
-Welcome to my portfolio page. Here you'll find a collection of my projects and works.
-
 ## Featured Projects
 
-### Project 1: AI Research Assistant
-- Developed a machine learning model to assist in academic research
-- Implemented natural language processing techniques
-- Improved research efficiency by 30%
+### ML Prediction model development for Child Abusing Provention
+- Industry-University Cooperation project, Korea Social Security Information Service
+- Main Positions and Required Skills: Machine learning programming (sub) 
 
-### Project 2: Data Visualization Dashboard
-- Created an interactive dashboard for complex data visualization
-- Utilized D3.js and React for front-end development
-- Increased data comprehension rates among users by 25%
+### Fake News Detection NLP Project (October 2022 ~ June 2023)
+- Industry-University Cooperation project, Korea Ceative content agency
+- Graph Neural Network modeling for efficient Fake News Detection Framework.
+- Main Positions and Required Skills: Deep learning programming (sub), and paper writing. 
 
-### Project 3: Multimodal Learning Algorithm
-- Designed and implemented a novel algorithm for multimodal learning
-- Focused on text-video retrieval and video understanding
-- Achieved state-of-the-art results on benchmark datasets
+### The next generation Text-Video-Retrieval Development (October 2022 ~ June 2023)
+- Industry-University Cooperation project 
+- Submission to ACMMM 2023 as the 1st author
+- Main Positions and Required Skills: main student researcher, project manager. 
 
-## Skills
+### Summer Internship Program: KaKao operation. (June 2021 ~ September 2021) 
+- Employment-linked Internship program
+- Front-end Engineering
+- Required Skills: Reactive Web Programming - React, JavaScript.  
+<!-- ## Skills
 
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
 - Computer Vision
 - Data Analysis and Visualization
-- Python, TensorFlow, PyTorch
-
-## Education
-
-- Ph.D. in Artificial Intelligence, Chung-Ang University (Current)
-- M.S. in Artificial Intelligence, Chung-Ang University
-- B.S. in English Literature and Software Engineering, Chung-Ang University
-
-For more detailed information about my projects and research, please feel free to contact me.
+- Python, TensorFlow, PyTorch -->

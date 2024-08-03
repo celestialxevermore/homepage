@@ -15,11 +15,12 @@ Education
 * M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
 * Ph.D in Artificial Intelligence, Korea University, (2024 ~ Sep)
 
-Academic & Work experience
+<!-- Academic & Work experience
 ======
-* ML Prediction model development for Child Abusing Provention (October 2022 ~ June 2023)
+* ML Prediction model development for Child Abusing Provention 
   * Industry-University Cooperation project, Korea Social Security Information Service
-  * Main Positions and Required Skills: Machine learning programming (sub) Documentation
+  * 
+  * Main Positions and Required Skills: Machine learning programming (sub) 
 
 * Fake News Detection NLP Project (October 2022 ~ June 2023)
   * Industry-University Cooperation project, Korea Ceative content agency
@@ -35,7 +36,7 @@ Academic & Work experience
   * Employment-linked Internship program
   * Front-end Engineering
   * Required Skills: Reactive Web Programming - React, JavaScript.  
-  
+   -->
 Skills
 ======
 * Programming Skills : 
