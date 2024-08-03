@@ -16,8 +16,6 @@ author_profile: true
     - Implementing robust methods for handling missing data and noise in time series analysis
     - Creating models resilient to high inter-individual variability in behavioral patterns
 
-
-
 ### Time Series Forecasting for Handover Optimization (August 2024 ~ Now)
 - Collaborating Institution: Electronics and Telecommunications Research Institute (ETRI), South Korea
 - Research Area: Wireless Communications, Machine Learning
@@ -42,11 +40,3 @@ author_profile: true
 - Employment-linked Internship program
 - Front-end Engineering
 - Required Skills: Reactive Web Programming - React, JavaScript.  
-<!-- ## Skills
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Analysis and Visualization
-- Python, TensorFlow, PyTorch -->
