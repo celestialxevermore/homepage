@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in English and English Literature, B.S. in Software Engineering (double major)
+* B.A. in English and English Literature, B.S. in Software Engineering (double major) (Overall GPA : 4.10)
 * M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
 * Ph.D in Artificial Intelligence, Korea University, (2024 ~ Sep)
 

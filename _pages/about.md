@@ -19,10 +19,11 @@ I am waiting for exceptional research colleagues who are dedicated and deeply en
 
 Main Research Topics, and current interests.
 -----
-0. Main Research Topic (On PhD course) : Tabular domain  
-1. Past Research Topic : Information Theory, Contrastive Learning, and Feature Selection.
-2. Multimodal Learning (specifically, I had focused on Text-Video-Retrieval), and Video Understanding. 
-3. Fake News Detection with Graph Neural Network. 
+0. Current Main Research Topic : LLM, Foundation Model, Time Series Forecasting, Tabular Understanding.
+1. Past Research Topic : 
+  - Self-supervised Learning
+  - Multimodal Learning (specifically, I had focused on Text-Video-Retrieval), and Video Understanding. 
+  - Fake News Detection with Graph Neural Network. 
 
 Contact Me. 
 ------

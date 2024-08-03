@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Featured Projects
-### My Secret HERO: Health Evaluation and RestOration
+### My Secret HERO: Health Evaluation and RestOration (August 2024 ~ Now)
 - Collaborating Institution: Chonnam National University Hwasun Hospital
 - Research Area : technology for unobtrusive detection of depression and suicidal ideation based on digitally verified biobehavioral patterns.
 - Project Highlights : 
