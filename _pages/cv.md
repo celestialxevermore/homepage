@@ -38,7 +38,6 @@ Education
   * Required Skills: Reactive Web Programming - React, JavaScript.  
    -->
 Skills
-======
 * Programming Skills : 
   * C++(main), Python, Pytorch, Tensorflow
   * Web &App programming language involving HTML, CSS, Javascript, Flutter, and react etc.
