@@ -17,6 +17,10 @@ Education
 
 Academic & Work experience
 ======
+* ML Prediction model development for Child Abusing Provention (October 2022 ~ June 2023)
+  * Industry-University Cooperation project, Korea Social Security Information Service
+  * Main Positions and Required Skills: Machine learning programming (sub) Documentation
+
 * Fake News Detection NLP Project (October 2022 ~ June 2023)
   * Industry-University Cooperation project, Korea Ceative content agency
   * Graph Neural Network modeling for efficient Fake News Detection Framework.
