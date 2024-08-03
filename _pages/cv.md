@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+
 * B.A. in English and English Literature, B.S. in Software Engineering (double major) (Overall GPA : 4.10)
 * M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
 * Ph.D in Artificial Intelligence, Korea University, (2024 ~ Sep)
@@ -38,7 +38,7 @@ Education
   * Required Skills: Reactive Web Programming - React, JavaScript.  
    -->
 Skills
-======
+
 * Programming Skills : 
   * C++(main), Python, Pytorch, Tensorflow
   * Web &App programming language involving HTML, CSS, Javascript, Flutter, and react etc.
