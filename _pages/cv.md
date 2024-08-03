@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in English and English Literature, B.S. in Software Engineering (double major)
 * M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
-* Ph.D in Artificial Intelligence, Chung-Ang University, (2023 ~ )
+* Ph.D in Artificial Intelligence, Korea University, (2024 ~ Sep)
 
 Academic & Work experience
 ======
@@ -31,7 +31,6 @@ Academic & Work experience
   * Employment-linked Internship program
   * Front-end Engineering
   * Required Skills: Reactive Web Programming - React, JavaScript.  
-
   
 Skills
 ======
