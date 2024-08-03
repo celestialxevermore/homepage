@@ -19,7 +19,10 @@ I am waiting for exceptional research colleagues who are dedicated and deeply en
 
 Main Research Topics, and current interests.
 -----
-0. Current Main Research Topic : LLM, Foundation Model, Time Series Forecasting, Tabular Understanding.
+0. Current Main Research Topic : 
+  - LLM, Foundation Model
+  - Time Series Forecasting, Tabular Understanding
+  - Graph Neural Network
 1. Past Research Topic : 
   - Self-supervised Learning, Multimodal Learning 
     specifically, I had focused on Text-Video-Retrieval, and Video-Question-Answering.
