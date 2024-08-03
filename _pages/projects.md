@@ -19,8 +19,10 @@ author_profile: true
 ### Time Series Forecasting for Handover Optimization (August 2024 ~ Now)
 - Collaborating Institution: Electronics and Telecommunications Research Institute (ETRI), South Korea
 - Research Area: Wireless Communications, Machine Learning
-- Focus: Time Series Forecasting for Handover Prediction and Optimization
-- Objective: To enhance the efficiency and reliability of handover mechanisms in next-generation wireless networks using state-of-the-art machine learning techniques
+- Focus: 
+    - Time Series Forecasting for Handover Prediction and Optimization
+- Objective: 
+    - To enhance the efficiency and reliability of handover mechanisms in next-generation wireless networks using state-of-the-art machine learning techniques
 
 ### ML Prediction model development for Child Abusing Provention (Februrary 2024 ~ July 2024)
 - Industry-University Cooperation project, Korea Social Security Information Service
