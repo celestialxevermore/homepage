@@ -24,8 +24,8 @@ Main Research Topics, and current interests.
   - Time Series Forecasting, Tabular Understanding
   - Graph Neural Network
 1. Past Research Topic : 
-  - Self-supervised Learning, Multimodal Learning 
-    specifically, I had focused on Text-Video-Retrieval, and Video-Question-Answering.
+  - Self-supervised Learning, Multimodal Learning
+    - Text Video Retrieval, Video Question Answering
   - Fake News Detection with Graph Neural Network. 
 
 Contact Me. 
