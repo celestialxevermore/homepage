@@ -13,7 +13,7 @@ Education
 
 * B.A. in English and English Literature, B.S. in Software Engineering (double major) (Overall GPA : 4.10)
 * M.S. in Artificial Intelligence, Chung-Ang University, (2021 ~ 2023)
-* Ph.D in Artificial Intelligence, Korea University, (2024 ~ Sep)
+* Ph.D in Artificial Intelligence, Korea University, (2024 Sep ~ )
 
 <!-- Academic & Work experience
 ======
@@ -51,7 +51,7 @@ Skills
   * TOEFL ibt score : 98 (my best score 105).
   * Speaking (Intermediate). 
 * Co-work Skills : 
-  * Github (Intermediate) 
+  * Github 
 
 
 
