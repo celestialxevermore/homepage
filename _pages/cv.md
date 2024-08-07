@@ -41,7 +41,7 @@ Skills
 
 * Programming Skills : 
   * C++(main), Python, Pytorch, Tensorflow
-  * Web &App programming language involving HTML, CSS, Javascript, Flutter, and react etc.
+  * Web & App programming language involving HTML, CSS, Javascript, Flutter, and react etc.
   * GO(Low proficiency)  
 * Deep Learning environments : 
   * MobaXterm, nohup, wandb (intermediate). 
