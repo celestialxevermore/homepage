@@ -4,7 +4,7 @@ collection: pre-print
 permalink: /publication/2024-01-17-paper-X-VLNet for Text Video Retrieval-Multi-level interaction with Fine-Grained Intra- Inter- Modality Alignment
 excerpt: 'pre-print'
 date: 2024-01-17
-paperurl: 
+paperurl:
 citation: 
 ---
 
