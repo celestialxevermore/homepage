@@ -8,8 +8,8 @@ function toggleDarkMode() {
 
 document.addEventListener('DOMContentLoaded', (event) =>{
     const savedMode = localStorage.getItem('darkMode');
-    if (savedMode === 'true') {
+    if (savedMode === null || savedMode === 'true') {
         document.body.classList.add('dark-mode');
     }
-}); 
+});
 
