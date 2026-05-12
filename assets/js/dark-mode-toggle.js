@@ -1,5 +1,5 @@
 function applyToggleButtonStyle(isDark) {
-    const btn = document.getElementById('dark-mode-toggle');
+    var btn = document.getElementById('dark-mode-toggle');
     if (!btn) return;
     if (isDark) {
         btn.style.backgroundColor = '#2a2a2a';
@@ -13,30 +13,25 @@ function applyToggleButtonStyle(isDark) {
 }
 
 function toggleDarkMode() {
-    const body = document.body;
-    body.classList.toggle('dark-mode');
-    const isDark = body.classList.contains('dark-mode');
-    localStorage.setItem('darkMode', isDark);
-    applyToggleButtonStyle(isDark);
+    var body = document.body;
+    var willBeDark = !body.classList.contains('dark-mode');
+    if (willBeDark) {
+        body.classList.add('dark-mode');
+    } else {
+        body.classList.remove('dark-mode');
+    }
+    try { localStorage.setItem('darkMode', willBeDark ? 'true' : 'false'); } catch (e) {}
+    applyToggleButtonStyle(willBeDark);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    const saved = localStorage.getItem('darkMode');
-    const isDark = saved !== 'false';
-
+document.addEventListener('DOMContentLoaded', function () {
+    var saved = null;
+    try { saved = localStorage.getItem('darkMode'); } catch (e) {}
+    var isDark = saved !== 'false';
     if (isDark) {
         document.body.classList.add('dark-mode');
     } else {
         document.body.classList.remove('dark-mode');
     }
     applyToggleButtonStyle(isDark);
-
-    const toggleBtn = document.getElementById('dark-mode-toggle');
-    if (toggleBtn) {
-        toggleBtn.addEventListener('click', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-            toggleDarkMode();
-        });
-    }
 });
