@@ -1,15 +1,10 @@
 function applyToggleButtonStyle(isDark) {
     var btn = document.getElementById('dark-mode-toggle');
     if (!btn) return;
-    if (isDark) {
-        btn.style.backgroundColor = '#2a2a2a';
-        btn.style.color = '#ffffff';
-        btn.style.borderBottom = '1px solid #444';
-    } else {
-        btn.style.backgroundColor = '#ffffff';
-        btn.style.color = '#7a8288';
-        btn.style.borderBottom = '1px solid #f2f3f3';
-    }
+    btn.style.backgroundColor = 'transparent';
+    btn.style.border = '0';
+    btn.style.boxShadow = 'none';
+    btn.style.color = isDark ? '#ffffff' : '#7a8288';
 }
 
 function toggleDarkMode() {

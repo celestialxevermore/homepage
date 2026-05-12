@@ -126,5 +126,32 @@ body.dark-mode {
       border-color: #444;
     }
   }
-  
+
+.author__urls li {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+#dark-mode-toggle {
+  background-color: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+
+  &:hover,
+  &:focus {
+    background-color: transparent !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+body.dark-mode #dark-mode-toggle {
+  color: #ffffff !important;
+}
+
+body:not(.dark-mode) #dark-mode-toggle {
+  color: #7a8288 !important;
+}
+
 
