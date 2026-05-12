@@ -12,4 +12,13 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
         document.body.classList.add('dark-mode');
     }
+
+    const toggleBtn = document.getElementById('dark-mode-toggle');
+    if (toggleBtn) {
+        toggleBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            toggleDarkMode();
+        });
+    }
 });
